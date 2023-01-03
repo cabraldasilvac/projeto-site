@@ -1,10 +1,10 @@
 * {
   font-family: "Courier New", Courier, monospace;
-  font-size: 16px;
+  font-size: 18px;
 }
 
 body {
-  background-color: blue;
+  background-color: rgba(51, 111, 223, 0.801);
 }
 
 main {
