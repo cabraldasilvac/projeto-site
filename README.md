@@ -1,2 +1,2 @@
 # projeto-site
- Pprojeto de um site para treinamento
+ Projeto de um site para treinamento
